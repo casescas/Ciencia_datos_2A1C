@@ -1262,7 +1262,6 @@ Fecha,prov_residencia_persona_en_situacion_violencia,genero_persona_en_situacion
 2023-01-21,Córdoba,Mujer,23,,Si,Si,No,Si,No,Si,No,No,No,No,No,No,Ex pareja,Varon
 2023-01-21,Córdoba,Mujer,21,Argentina,Si,Si,No,No,No,Si,No,No,No,No,No,No,Pareja,Varon
 2023-01-21,Córdoba,Mujer,47,Argentina,Si,Si,No,Si,No,Si,No,No,No,No,No,No,Pareja,Varon
-2023-01-21,""Tierra del Fuego, Antártida e Islas del Atlántico Sur"",Mujer,26,Argentina,Si,Si,No,No,No,Si,No,No,No,No,No,No,Pareja,Varon
 2023-01-21,Buenos Aires,Mujer,30,Argentina,Si,Si,No,No,No,Si,No,No,No,No,No,No,Pareja,Varon
 2023-01-21,Buenos Aires,Mujer,49,Argentina,Si,Si,No,No,No,Si,No,No,No,No,No,No,Otro,Varon
 2023-01-21,San Luis,Mujer,31,,Si,Si,No,Si,Si,Si,No,No,No,No,No,No,Ex pareja,Varon
@@ -2249,7 +2248,7 @@ Fecha,prov_residencia_persona_en_situacion_violencia,genero_persona_en_situacion
 2023-02-06,Buenos Aires,Mujer,31,Argentina,Si,Si,Si,No,No,No,No,No,No,No,No,No,Otro,Varon
 2023-02-06,Tucumán,Mujer,39,,No,Si,No,Si,No,Si,No,No,No,No,No,No,Ex pareja,Varon
 2023-02-06,Buenos Aires,Mujer,52,,No,Si,No,No,No,Si,No,No,No,No,No,No,Otro,Varon
-2023-02-06,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Mujer,,,No,Si,No,No,No,No,No,No,No,No,No,No,,
+"2023-02-06,""Tierra del Fuego, Antártida e Islas del Atlántico Sur"",Mujer,,,No,Si,No,No,No,No,No,No,No,No,No,No,,"
 2023-02-06,Mendoza,Mujer,32,,No,Si,No,No,No,Si,No,No,No,No,No,No,Pareja,Varon
 2023-02-06,Santa Fe,Mujer,25,,Si,Si,No,Si,Si,Si,No,No,No,No,No,No,Ex pareja,Varon
 2023-02-06,Jujuy,Mujer,32,Argentina,Si,Si,No,Si,No,Si,No,No,No,No,No,No,Pareja,Varon
@@ -3210,7 +3209,7 @@ Fecha,prov_residencia_persona_en_situacion_violencia,genero_persona_en_situacion
 2023-02-22,Buenos Aires,Mujer,36,,Si,Si,No,No,Si,Si,No,No,No,No,No,No,Pareja,Varon
 2023-02-22,Buenos Aires,Mujer,17,,No,Si,Si,No,Si,Si,No,No,No,No,No,No,Otro familiar,Varon
 2023-02-22,Buenos Aires,Mujer,40,,Si,Si,No,No,Si,Si,No,No,No,No,No,No,Pareja,Varon
-2023-02-23,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Mujer,35,Argentina,Si,Si,Si,Si,No,Si,No,No,No,No,No,No,Ex pareja,Varon
+"2023-02-23,""Tierra del Fuego, Antártida e Islas del Atlántico Sur"",Mujer,35,Argentina,Si,Si,Si,Si,No,Si,No,No,No,No,No,No,Ex pareja,Varon"
 2023-02-23,Buenos Aires,Mujer,44,Argentina,Si,Si,No,No,No,Si,No,No,No,No,No,No,Pareja,Varon
 2023-02-23,Buenos Aires,Mujer,34,Argentina,Si,Si,No,No,Si,Si,No,No,No,No,No,No,Pareja,Varon
 2023-02-23,Buenos Aires,Mujer,25,Argentina,Si,Si,No,Si,No,Si,No,No,No,No,No,No,Pareja,Varon
@@ -3708,7 +3707,7 @@ Fecha,prov_residencia_persona_en_situacion_violencia,genero_persona_en_situacion
 2023-03-04,Santa Fe,Mujer,35,Argentina,No,Si,No,Si,No,Si,No,No,No,No,No,No,Ex pareja,Varon
 2023-03-04,Buenos Aires,Mujer,51,Argentina,Si,Si,No,No,No,Si,No,No,No,No,No,No,Pareja,Varon
 2023-03-04,Buenos Aires,Mujer,,Argentina,Si,Si,No,No,No,Si,No,No,No,No,No,No,Ex pareja,Varon
-2023-03-04,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Mujer,32,Argentina,Si,Si,No,No,No,Si,No,No,No,No,No,No,Pareja,Varon
+"2023-03-04,""Tierra del Fuego, Antártida e Islas del Atlántico Sur"",Mujer,32,Argentina,Si,Si,No,No,No,Si,No,No,No,No,No,No,Pareja,Varon"
 2023-03-04,Buenos Aires,Mujer,39,Argentina,No,Si,No,No,No,Si,No,No,No,No,No,No,Ex pareja,Varon
 2023-03-04,Buenos Aires,Mujer,15,Argentina,Si,Si,Si,No,Si,Si,No,No,No,No,No,No,Otro,Varon
 2023-03-04,Córdoba,Mujer,19,Argentina,Si,Si,Si,No,No,No,No,No,No,No,No,No,Otro,Varon
@@ -4054,7 +4053,7 @@ Fecha,prov_residencia_persona_en_situacion_violencia,genero_persona_en_situacion
 2023-03-10,Mendoza,Mujer,26,,No,Si,No,Si,Si,Si,No,No,No,No,No,No,Pareja,Varon
 2023-03-10,Santiago Del Estero,Mujer,,Argentina,Si,Si,No,Si,No,Si,No,No,No,No,No,No,Pareja,Varon
 2023-03-10,Córdoba,Mujer,21,Argentina,Si,Si,No,Si,No,Si,No,No,No,No,No,No,Pareja,Varon
-2023-03-10,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Mujer,31,Argentina,Si,Si,Si,Si,Si,Si,No,No,No,No,No,No,Pareja,Varon
+"2023-03-10,""Tierra del Fuego, Antártida e Islas del Atlántico Sur"",Mujer,31,Argentina,Si,Si,Si,Si,Si,Si,No,No,No,No,No,No,Pareja,Varon"
 2023-03-10,San Luis,Mujer,40,Argentina,No,Si,No,Si,No,Si,No,No,No,No,No,No,Ex pareja,Varon
 2023-03-10,Santa Fe,Mujer,28,Argentina,Si,Si,No,No,No,Si,No,No,No,No,No,No,Pareja,Varon
 2023-03-10,Ciudad Autónoma de Buenos Aires,Mujer,,Argentina,Si,Si,No,No,No,Si,No,No,No,No,No,No,Ex pareja,Varon
@@ -6043,7 +6042,7 @@ Fecha,prov_residencia_persona_en_situacion_violencia,genero_persona_en_situacion
 2023-04-14,Buenos Aires,Mujer,39,Argentina,No,Si,No,No,Si,Si,No,No,No,No,No,No,Ex pareja,Varon
 2023-04-14,Buenos Aires,Mujer,55,,Si,Si,No,No,Si,Si,No,No,No,No,No,No,Ex pareja,Varon
 2023-04-14,Buenos Aires,Mujer,27,Argentina,Si,Si,No,No,Si,No,No,No,No,No,No,No,Ex pareja,Varon
-2023-04-14,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Mujer,24,Argentina,Si,Si,No,No,Si,Si,No,No,No,No,No,No,Pareja,Varon
+"2023-04-14,""Tierra del Fuego, Antártida e Islas del Atlántico Sur"",Mujer,24,Argentina,Si,Si,No,No,Si,Si,No,No,No,No,No,No,Pareja,Varon"
 2023-04-14,Jujuy,Mujer,28,Argentina,Si,Si,No,Si,No,Si,No,No,No,No,No,No,Ex pareja,Varon
 2023-04-14,Córdoba,Mujer,44,,No,Si,No,No,No,Si,No,No,No,No,No,No,Ex pareja,Varon
 2023-04-14,Neuquén,Mujer,,Argentina,No,Si,No,No,No,Si,No,No,No,No,No,No,Ex pareja,Varon
@@ -6467,7 +6466,7 @@ Fecha,prov_residencia_persona_en_situacion_violencia,genero_persona_en_situacion
 2023-04-22,Santiago Del Estero,Mujer,43,Argentina,Si,Si,Si,No,No,No,No,No,No,No,No,No,Otro,Varon
 2023-04-22,Buenos Aires,Mujer,,,Si,Si,No,No,No,Si,No,No,No,No,No,No,Pareja,
 2023-04-22,Buenos Aires,Mujer,30,Argentina,Si,Si,No,No,Si,Si,No,No,No,No,No,No,Ex pareja,Varon
-2023-04-22,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Mujer,43,Argentina,Si,Si,No,No,No,Si,No,No,No,No,No,No,Ex pareja,Varon
+"2023-04-22,""Tierra del Fuego, Antártida e Islas del Atlántico Sur"",Mujer,43,Argentina,Si,Si,No,No,No,Si,No,No,No,No,No,No,Ex pareja,Varon"
 2023-04-22,Ciudad Autónoma de Buenos Aires,Mujer,42,Peruana,Si,Si,No,Si,No,Si,No,No,No,No,No,No,Ex pareja,Varon
 2023-04-22,Misiones,Mujer,25,Argentina,No,Si,Si,No,No,No,No,No,No,No,No,No,Otro,Varon
 2023-04-22,Salta,Mujer,40,Argentina,No,Si,No,Si,Si,Si,No,No,No,No,No,No,Ex pareja,Varon
@@ -6988,7 +6987,7 @@ Fecha,prov_residencia_persona_en_situacion_violencia,genero_persona_en_situacion
 2023-05-01,Santa Fe,Mujer,15,Argentina,Si,Si,No,No,No,Si,No,No,No,No,No,No,Padre o tutor,Varon
 2023-05-01,Buenos Aires,Mujer,,Argentina,Si,Si,No,No,No,Si,No,No,No,No,No,No,Pareja,Varon
 2023-05-01,Santa Fe,Mujer,40,Argentina,No,Si,No,Si,No,Si,No,No,No,No,No,No,Ex pareja,Varon
-2023-05-01,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Mujer,36,Argentina,Si,Si,No,Si,No,Si,No,No,No,No,No,No,Pareja,Varon
+"2023-05-01,""Tierra del Fuego, Antártida e Islas del Atlántico Sur"",Mujer,36,Argentina,Si,Si,No,Si,No,Si,No,No,No,No,No,No,Pareja,Varon"
 2023-05-01,Buenos Aires,Mujer,37,Argentina,Si,Si,No,Si,No,Si,No,No,No,No,No,No,Ex pareja,Varon
 2023-05-01,Buenos Aires,Mujer,29,Argentina,Si,Si,No,Si,Si,Si,No,No,No,No,No,No,Ex pareja,Varon
 2023-05-01,Buenos Aires,Mujer,20,Argentina,No,Si,Si,No,No,No,No,No,No,No,No,No,Otro,Varon
@@ -7693,7 +7692,7 @@ Fecha,prov_residencia_persona_en_situacion_violencia,genero_persona_en_situacion
 2023-05-15,Corrientes,Mujer,43,,No,Si,No,No,Si,Si,No,No,No,No,No,No,Ex pareja,Varon
 2023-05-15,Buenos Aires,Mujer,33,,No,Si,No,No,No,Si,No,No,No,No,No,No,Pareja,Varon
 2023-05-15,Tucumán,Mujer,32,,Si,Si,No,Si,No,Si,No,No,No,No,No,No,Pareja,Varon
-2023-05-15,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Mujer,37,Argentina,Si,Si,No,Si,No,Si,No,No,No,No,No,No,Pareja,Varon
+"2023-05-15,""Tierra del Fuego, Antártida e Islas del Atlántico Sur"",Mujer,37,Argentina,Si,Si,No,Si,No,Si,No,No,No,No,No,No,Pareja,Varon"
 2023-05-15,Buenos Aires,Mujer,37,,Si,No,No,No,No,No,No,No,No,No,No,No,,
 2023-05-15,Buenos Aires,Mujer,34,,Si,Si,Si,Si,Si,Si,No,No,No,No,No,No,Pareja,Varon
 2023-05-15,Buenos Aires,Mujer,34,Argentina,Si,Si,No,Si,No,Si,No,No,No,No,No,No,Ex pareja,Varon
@@ -8242,7 +8241,7 @@ Fecha,prov_residencia_persona_en_situacion_violencia,genero_persona_en_situacion
 2023-05-26,Buenos Aires,Mujer,60,Argentina,No,Si,No,Si,Si,Si,No,No,No,No,No,No,Ex pareja,Varon
 2023-05-26,La Pampa,Mujer,37,Argentina,No,Si,No,Si,Si,Si,No,No,No,No,No,No,Pareja,Varon
 2023-05-26,Santa Fe,Mujer,40,Argentina,Si,Si,No,Si,No,Si,No,No,No,No,No,No,Pareja,Varon
-2023-05-26,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Mujer,29,Argentina,Si,Si,No,Si,No,Si,No,No,No,No,No,No,Ex pareja,Varon
+"2023-05-26,""Tierra del Fuego, Antártida e Islas del Atlántico Sur"",Mujer,29,Argentina,Si,Si,No,Si,No,Si,No,No,No,No,No,No,Ex pareja,Varon"
 2023-05-26,Santiago Del Estero,Mujer,90,Argentina,Si,Si,No,No,No,Si,No,No,No,No,No,No,Otro,Varon
 2023-05-26,San Juan,Mujer,18,Argentina,No,Si,No,No,Si,Si,No,No,No,No,No,No,Ex pareja,Varon
 2023-05-26,Misiones,Mujer,47,Argentina,Si,Si,Si,No,No,Si,No,No,No,No,No,No,Ex pareja,Varon
@@ -8374,7 +8373,7 @@ Fecha,prov_residencia_persona_en_situacion_violencia,genero_persona_en_situacion
 2023-05-28,Buenos Aires,Mujer,30,Paraguaya,Si,Si,No,Si,No,Si,No,No,No,No,No,No,Ex pareja,Varon
 2023-05-28,Buenos Aires,Mujer,54,Argentina,Si,Si,No,Si,No,Si,No,No,No,No,No,No,Ex pareja,Varon
 2023-05-28,Tucumán,Mujer,30,Argentina,Si,Si,No,Si,No,Si,No,No,No,No,No,No,Pareja,Varon
-2023-05-28,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Mujer,68,Argentina,No,Si,No,Si,No,Si,No,No,No,No,No,No,Ex pareja,Varon
+"2023-05-28,""Tierra del Fuego, Antártida e Islas del Atlántico Sur"",Mujer,68,Argentina,No,Si,No,Si,No,Si,No,No,No,No,No,No,Ex pareja,Varon"
 2023-05-28,Ciudad Autónoma de Buenos Aires,Mujer,25,,Si,Si,No,No,No,Si,No,No,No,No,No,No,Pareja,Varon
 2023-05-28,Ciudad Autónoma de Buenos Aires,Mujer,43,Argentina,Si,Si,No,Si,No,Si,No,No,No,No,No,No,Pareja,Varon
 2023-05-28,Ciudad Autónoma de Buenos Aires,Mujer,,,No,Si,No,No,No,Si,No,No,No,No,No,No,Otro,Varon
@@ -9319,7 +9318,7 @@ Fecha,prov_residencia_persona_en_situacion_violencia,genero_persona_en_situacion
 2023-06-17,Entre Ríos,Mujer,22,Argentina,Si,Si,Si,No,No,Si,No,No,No,No,No,No,Ex pareja,Varon
 2023-06-17,Córdoba,Mujer,33,Argentina,Si,Si,Si,Si,No,Si,No,No,No,No,No,No,Pareja,Varon
 2023-06-17,Buenos Aires,Mujer,,Argentina,No,Si,No,Si,No,Si,No,No,No,No,No,No,Pareja,Varon
-2023-06-17,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Mujer,35,Argentina,Si,Si,No,Si,No,Si,No,No,No,No,No,No,Pareja,Varon
+"2023-06-17,""Tierra del Fuego, Antártida e Islas del Atlántico Sur"",Mujer,35,Argentina,Si,Si,No,Si,No,Si,No,No,No,No,No,No,Pareja,Varon"
 2023-06-17,Buenos Aires,Mujer,26,Argentina,Si,Si,No,Si,No,Si,No,No,No,No,No,No,Ex pareja,Varon
 2023-06-17,Buenos Aires,Mujer,27,Argentina,Si,Si,No,No,No,Si,No,No,No,No,No,No,Pareja,Varon
 2023-06-17,Santa Fe,Mujer,21,Argentina,No,Si,No,Si,No,Si,No,No,No,No,No,No,Padre o tutor,Varon
