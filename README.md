@@ -3,7 +3,7 @@
 
 **Autor:** Diego Estrada  
 **Proyecto Final - Aprendizaje Automático 2025**  
-**Repositorio:** [Enlace al repositorio GitHub]  
+ 
 
 ---
 
