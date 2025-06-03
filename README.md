@@ -21,7 +21,7 @@
    - Variables predictoras: parámetros físico-químicos y microbiológicos
 
 3. **Descripción del Dataset**
-   - Origen de los datos: Ministerio de Ambiente, RIIGLO, Kaggle, CiAM
+   - Origen de los datos: Kaggle, CiAM
    - Periodo de recolección: 2013–2024
    - Estructura del dataset: 30 columnas, 1186 registros
    - Diccionario de variables

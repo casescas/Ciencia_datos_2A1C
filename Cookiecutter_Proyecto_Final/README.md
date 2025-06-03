@@ -9,30 +9,22 @@ Organización del proyecto
 
     ├── LICENSE
     ├── README.md          <- Este readme.
-    ├── artifacts          <- Repositorio de artefactos, como logs, transformadores, etc.
+    ├── artifacts          <- Repositorio, como docs, notebook, etc.
     ├── data
-    │   ├── preprocessed   <- Data intermedia con algunas transformaciones.
-    │   ├── stage          <- La data lista para ser utilizada en un modelo.
+    │   ├── interim        <- Data en proceso de transformaciones.
+    │   ├── processed      <- La data lista para ser utilizada en un modelo.
     │   └── raw            <- La data de origen, inmutable.
     │
-    ├── docs               <- Proyecto default de Sphinx.
+    ├── docs               <- Documentos relacionado con el proyecto.
     │
     ├── models             <- Modelos listos.
     │
-    ├── notebooks          <- Jupyter notebooks. Dejamos una convención sugerida:
-    │                         iniciales-numero-descripcion corta. Ejemplo:
-    │                         `he-1.0-eda-base-clientes`.
+    ├── notebooks          <- Jupyter notebooks. Archivos de Notebook.
     │
-    ├── references         <- Manuales de la data, documentación, todo lo relevante para trabajar.
+    ├── references         <- Documentación, link, archivos de origen.
     │
-    ├── reports            <- Reportes en HTML, PDF, LaTeX, etc.
+    ├── reports            <- Reportes en PDF, construcción del proyecto.
     │   └── figures        <- Carpeta para guardar imágenes de rápido acceso.
     │
-    └── src                <- Código del proyecto.
-    
-    
-Para ejecutar:
-------------
-
-Desde esta carpeta, ingresar el comando make workstation-up.
+    └── src                <- Código de api.
 
