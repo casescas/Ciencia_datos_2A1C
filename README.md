@@ -2,7 +2,6 @@
 
 **Alumno:** Diego Estrada  
 **Profesor:** Martin Mirabete
-**Centro Politécnico Superior Malvinas Argentinas**
 
 **Proyecto Final - Aprendizaje Automático 2025**  
 
