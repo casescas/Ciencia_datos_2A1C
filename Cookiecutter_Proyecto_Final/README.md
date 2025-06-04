@@ -15,7 +15,7 @@ Organización del proyecto
     │   ├── processed      <- La data lista para ser utilizada en un modelo.
     │   └── raw            <- La data de origen, inmutable.
     │
-    ├── docs               <- Documentos relacionado con el proyecto.
+    ├── docs               <- Documentos relacionado con el proyecto, Backup editables.
     │
     ├── models             <- Modelos listos.
     │
@@ -23,7 +23,7 @@ Organización del proyecto
     │
     ├── references         <- Documentación, link, archivos de origen.
     │
-    ├── reports            <- Reportes en PDF, construcción del proyecto.
+    ├── reports            <- Entregas y Reportes en PDF,construcción del proyecto.
     │   └── figures        <- Carpeta para guardar imágenes de rápido acceso.
     │
     └── src                <- Código de api.
