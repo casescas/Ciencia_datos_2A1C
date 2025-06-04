@@ -1,60 +1,68 @@
-
 # 🧪 Clasificación de la Calidad del Agua del Río de la Plata
 
-**Autor:** Diego Estrada  
+**Alumno:** Diego Estrada  
+**Profesor:** Martin Mirabete
+**Centro Politécnico Superior Malvinas Argentinas**
+
 **Proyecto Final - Aprendizaje Automático 2025**  
- 
 
----
+## 1. Introducción y Objetivo del Proyecto
+📄 _Archivo: **Entrega 1, Descripción y Formulación del Objetivo 2.pdf**_
+- Contexto ambiental del Río de la Plata
+- Importancia del monitoreo de la calidad del agua
+- Objetivo general del proyecto
+- Tipo de problema, clasificación supervisada
+- Categorías de calidad del agua: levemente deteriorada, deteriorada, muy deteriorada, extremadamente deteriorada
+- Modelos propuestos: ANN, XGBoost, SVM, Random Forest, k-NN, Redes Neuronales.
 
-## 📑 Índice de Contenidos
+## 2. Descripción del Dataset y Origen
+📄 _Archivo: **Entrega 2, Descripción del Dataset y OrigenTarea 2.pdf**_
+- Fuentes de datos: Kaggle, CiAM
+- Periodo de recolección: 2013–2024
+- Estructura del dataset: 30 variables, 1186 registros
+- Variables físico-químicas, microbiológicas y estacionales
+- Diccionario de datos
+- Organización del proyecto con estructura Cookiecutter
 
-1. **Descripción del Proyecto**
-   - Contexto ambiental del Río de la Plata
-   - Relevancia del análisis de calidad del agua
-   - Objetivo general del proyecto
+## 3. Procesamiento ETL (Extracción, Transformación y Carga)
+📄 _Archivo: **Procesamiento ETL - Dataset unificados 1.pdf**_
+- Carga de archivos CSV con rutas relativas
+- Unificación de datasets en un solo DataFrame
+- Limpieza de datos:
+  - Eliminación de columnas irrelevantes y duplicados
+  - Tratamiento de valores nulos (mediana y moda)
+  - Estandarización de texto y símbolos
+- Codificación de variables:
+  - Binarización de variables categóricas (presente/ausente)
+  - One-Hot Encoding para estaciones del año
+  - Ordinal Encoding para la variable objetivo
 
-2. **Formulación del Problema**
-   - Tipo de problema: Clasificación supervisada
-   - Categorías de calidad del agua:  
-     *Levemente deteriorada, Deteriorada, Muy deteriorada, Extremadamente deteriorada*
-   - Variables predictoras: parámetros físico-químicos y microbiológicos
+## 4. Análisis Exploratorio de Datos (EDA)
+📄 _Archivo: **Exploratorio y Entrenamiento Modelos.pdf**_
+- Estadísticas descriptivas
+- Visualización de distribuciones y detección de outliers
+- Matriz de correlación y mapa de calor
+- Análisis de desbalance de clases
 
-3. **Descripción del Dataset**
-   - Origen de los datos: Kaggle, CiAM
-   - Periodo de recolección: 2013–2024
-   - Estructura del dataset: 30 columnas, 1186 registros
-   - Diccionario de variables
+## 5. Preprocesamiento para Modelado
+- Balanceo de clases con SMOTE
+- Estandarización de variables
+- Reducción de dimensionalidad con PCA
 
-4. **Procesamiento ETL**
-   - Unificación de datasets
-   - Limpieza y estandarización de datos
-   - Tratamiento de valores nulos y duplicados
-   - Codificación de variables categóricas
-   - Generación del dataset final: 1182 registros y 30 variables
+## 6. Modelado y Evaluación de Algoritmos
+- Modelos aplicados:
+  - Random Forest
+  - K-Nearest Neighbors (KNN)
+  - Red Neuronal Multicapa (MLP)
+- Evaluación con métricas: accuracy, precision, recall, F1-score
+- Curvas de aprendizaje
+- Observaciones sobre overfitting y rendimiento por clase
 
-5. **Análisis Exploratorio de Datos (EDA)**
-   - Estadísticas descriptivas y visualización de distribuciones
-   - Detección y tratamiento de outliers con IQR
-   - Análisis de correlación entre variables
-   - Distribución de la variable objetivo por año
+## 7. Optimización de Modelos
+- GridSearchCV para hiperparámetros
+- Mejores configuraciones para cada modelo
+- Comparación de resultados
 
-6. **Modelado y Evaluación**
-   - División de datos y balanceo con SMOTE
-   - Reducción de dimensionalidad con PCA
-   - Entrenamiento de modelos:
-     - Random Forest
-     - K-Vecinos más Cercanos (KNN)
-     - Red Neuronal Multicapa (MLP)
-   - Métricas de evaluación: Accuracy, F1-score, Matriz de Confusión
-   - Curvas de aprendizaje
-
-7. **Optimización de Modelos**
-   - Búsqueda de hiperparámetros con GridSearchCV
-   - Comparación de rendimiento entre modelos
-   - Implementación de regularización y early stopping en MLP
-
-8. **Conclusiones**
-   - Comparativa de modelos
-   - Selección del modelo óptimo
-   - Recomendaciones para futuras mejoras
+## 8. Conclusiones Finales
+- MLP optimizado como mejor modelo
+- Preparación del modelo para uso futuro
