@@ -65,6 +65,7 @@
 ## 8. Conclusiones Finales
 - MLP optimizado como mejor modelo
 - Preparación del modelo para uso futuro
+- Video Final - Presentación
 
 ## 9. Presentación del Modelo y Análisis de Resultados  
 📄 _Archivo: **Entrega 3, Presentación del Modelo y Análisis de Resultados.pdf**_
@@ -76,8 +77,8 @@
   - Tratamiento de outliers  
   - PCA (25 componentes, 95% varianza)  
 - Respuestas a preguntas de investigación:  
-  1. Variables más influyentes  
-  2. Diferencias estacionales y geográficas  
-  3. Capacidad predictiva de los modelos  
-- Métricas detalladas del modelo MLP  
+  - Variables más influyentes  
+  - Diferencias estacionales y geográficas  
+  - Capacidad predictiva de los modelos  
+- Métricas detalladas del modelo MLP
 - Conclusión: MLP como mejor modelo  
