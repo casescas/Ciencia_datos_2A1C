@@ -15,7 +15,11 @@ Organización del proyecto
     │   ├── processed      <- La data lista para ser utilizada en un modelo.
     │   └── raw            <- La data de origen, inmutable.
     │
+<<<<<<< HEAD
     ├── docs               <- Documentos editable relacionado con el proyecto, Backup editables, Videos en partes.
+=======
+    ├── docs               <- Documentos editable relacionado con el proyecto, Backup editables.
+>>>>>>> 87e3ebfbc588d659f3d96d7db92a982521bb95c1
     │
     ├── models             <- Modelos listos.
     │
@@ -23,7 +27,11 @@ Organización del proyecto
     │
     ├── references         <- Documentación, link, archivos de origen.
     │
+<<<<<<< HEAD
     ├── reports            <- PDF Entregas y Reportes, Documentación, Video Final.
+=======
+    ├── reports            <- Entregas y Reportes en PDF, Documentación, construcción del proyecto.
+>>>>>>> 87e3ebfbc588d659f3d96d7db92a982521bb95c1
     │   └── figures        <- Carpeta para guardar imágenes de rápido acceso.
     │
     └── src                <- Código de api, Modelos PKL
