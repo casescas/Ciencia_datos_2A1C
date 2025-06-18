@@ -11,22 +11,20 @@ Organización del proyecto
     ├── README_Proyecto.md          <- Este readme.
     ├── artifacts          <- Repositorio, como docs, notebook, etc.
     ├── data
-    │   ├── interim        <- Data en proceso de transformaciones.
+    │   ├── interim        <- la data en proceso de transformación.
     │   ├── processed      <- La data lista para ser utilizada en un modelo.
     │   └── raw            <- La data de origen, inmutable.
     │
-    ├── docs               <- Documentos editable relacionado con el proyecto, Backup editables, Videos en partes.
-    ├── docs               <- Documentos editable relacionado con el proyecto, Backup editables.
+    ├── docs               <- Documentos editable relacionado con el proyecto, Direccionario de datos,  Backup editables.
     │
     ├── models             <- Modelos listos.
     │
     ├── notebooks          <- Jupyter notebooks. Archivos de Notebook.
     │
-    ├── references         <- Documentación, link, archivos de origen.
+    ├── references         <- Link de acceso a los archivos de origen - Data set.
     │
     ├── reports            <- PDF Entregas y Reportes, Documentación, Video Final, Abstract Proyect Ingles 3
-    ├── reports            <- Entregas y Reportes en PDF, Documentación, construcción del proyecto.
     │   └── figures        <- Carpeta para guardar imágenes de rápido acceso.
     │
-    └── src                <- Código de api, Modelos PKL
+    └── src                <- Código de api, Modelos PKL (modelo_calidad_agua.pkl)
 
