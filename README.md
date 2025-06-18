@@ -66,6 +66,7 @@
 - MLP optimizado como mejor modelo
 - Preparación del modelo para uso futuro
 - Video Final - Presentación
+- Abstract Project Ingles 3
 
 ## 9. Presentación del Modelo y Análisis de Resultados  
 📄 _Archivo: **Entrega 3, Presentación del Modelo y Análisis de Resultados.pdf**_
