@@ -11,7 +11,7 @@ Organización del proyecto
     ├── README_Proyecto.md          <- Este readme.
     ├── artifacts          <- Repositorio, como docs, notebook, etc.
     ├── data
-    │   ├── interim        <- la data en proceso de transformación.
+    │   ├── interim        <- La data en proceso de transformación.
     │   ├── processed      <- La data lista para ser utilizada en un modelo.
     │   └── raw            <- La data de origen, inmutable.
     │
